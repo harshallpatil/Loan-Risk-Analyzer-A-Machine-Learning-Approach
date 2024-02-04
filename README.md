@@ -11,13 +11,13 @@ Employed a diverse set of algorithms to evaluate their performance on the datase
 
 3) Key Algorithms Utilized:
 
-I) Principal Component Analysis (PCA):
+    I) Principal Component Analysis (PCA):
 
-II) Random Forest:
+    II) Random Forest:
 
-III) K-Nearest Neighbors (KNN):
+    III) K-Nearest Neighbors (KNN):
 
-IV) Logistic Regression:
+    IV) Logistic Regression:
 
 4) Seaborn for Confusion Matrix Visualization:
 
